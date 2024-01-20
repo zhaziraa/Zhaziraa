@@ -1,4 +1,4 @@
-package ДЗ;
+package dz;
 
 public class DieselType extends VehicleTypeByFuelTypes {
     public DieselType() {

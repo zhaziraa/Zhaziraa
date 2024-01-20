@@ -1,4 +1,4 @@
-package ДЗ;
+package dz;
 
 public class VehicleAd {
     private String model;

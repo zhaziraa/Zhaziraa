@@ -1,4 +1,4 @@
-package ДЗ;
+package dz;
 
 public class PassengerType  extends VehicleTypeByPurpose {
     @Override

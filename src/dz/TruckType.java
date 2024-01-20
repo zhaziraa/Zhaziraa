@@ -1,4 +1,4 @@
-package ДЗ;
+package dz;
 
 public class TruckType extends VehicleTypeByPurpose{
     @Override

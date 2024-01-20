@@ -1,4 +1,4 @@
-package ДЗ;
+package dz;
 
 public class VehicleType {
     protected String attribute;

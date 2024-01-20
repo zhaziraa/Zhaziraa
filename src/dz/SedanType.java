@@ -1,4 +1,4 @@
-package ДЗ;
+package dz;
 
 public class SedanType extends VehicleTypeByBodyTypes {
     public SedanType() {

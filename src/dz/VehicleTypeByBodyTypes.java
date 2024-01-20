@@ -1,4 +1,4 @@
-package ДЗ;
+package dz;
 
 public class VehicleTypeByBodyTypes extends VehicleType {
     public VehicleTypeByBodyTypes(String attribute) {

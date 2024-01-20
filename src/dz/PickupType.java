@@ -1,4 +1,4 @@
-package ДЗ;
+package dz;
 
 public class PickupType extends VehicleTypeByBodyTypes {
     public PickupType() {
